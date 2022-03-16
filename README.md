@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dravirus
 - 👀 I’m interested in Learning and working with JavaScript, and React Native
-- 🌱 I’m currently learning React Native, JavaScript and React JS
+- 🌱 I’m currently learning Python, React Native, JavaScript and React JS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dravirus&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!---
